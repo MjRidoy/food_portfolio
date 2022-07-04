@@ -47,3 +47,16 @@ p{
     background-image: url(bg_img/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
+.review_section{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding:10px;
+    margin-top: 30px;
+    
+    
+}
+small{
+    color:dimgray;
+}
+
