@@ -38,7 +38,7 @@ p{
     border-radius: 25px;
     text-decoration: none;
     font-weight: 700;
-    background-color: lightblue;
+    background-color: #058EF7;
     margin-top: 20px;
     display: inline-block;
     
@@ -84,8 +84,7 @@ small{
 }
 .icon_width a i{
     font-size: 30px;
-    color:
-    lightblue;
+    color:#058EF7;
     padding: 0 5%;
     margin: 0 5%;
 }
